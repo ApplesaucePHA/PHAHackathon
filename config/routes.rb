@@ -1,7 +1,7 @@
 PHAHackathon::Application.routes.draw do
   resources :teachers
 
-  root 'static_pages#index'
+  root 'teachers#show'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

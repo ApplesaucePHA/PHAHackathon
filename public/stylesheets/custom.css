@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+background-image:url('../images/stripes.png'); 
+background-repeat: repeat; 
+background-attachment: fixed; 
+background-position: top; 
+}
+
+#face {
+width: 1000px; 
+height: 25px; 
+position: relative; 
+display: block; 
+margin-left: auto; 
+margin-right: auto;  
+}
+
+#body {
+margin-left:165px;
+margin-top:-1446px;
+}
